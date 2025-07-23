@@ -12,3 +12,6 @@ int main() {
     }
 return 0;    
 }
+/*OUTPUT
+Enter a letter: V
+The character is a consonant. */
