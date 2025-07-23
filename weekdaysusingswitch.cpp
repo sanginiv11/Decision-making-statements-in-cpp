@@ -32,3 +32,6 @@ int main() {
     }
     return 0;
 }
+/*OUTPUT
+Enter day number (1-7): 5
+Friday */
