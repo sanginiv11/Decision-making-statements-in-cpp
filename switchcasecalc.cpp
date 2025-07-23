@@ -35,3 +35,8 @@ int main() {
     }
     return 0;
 }
+/*OUTPUT
+Enter first number: 11
+Enter operator (+, -, *, /): /
+Enter second number: 4
+Result: 2.75 */
