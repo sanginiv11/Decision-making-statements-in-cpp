@@ -12,3 +12,6 @@ int main() {
     }
 return 0;
 }
+/* OUTPUT
+Enter a number :093
+The number is odd. */
