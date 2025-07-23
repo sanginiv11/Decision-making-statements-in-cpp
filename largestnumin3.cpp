@@ -25,3 +25,8 @@ int main() {
     }
     return 0;
 }
+/*OUTPUT
+Enter first number: 11
+Enter second number: 22
+Enter third number: 1
+The largest number is: 22 */
