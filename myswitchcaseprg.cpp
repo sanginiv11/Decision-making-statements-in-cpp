@@ -50,3 +50,12 @@ int main() {
     }
     return 0;
 }
+/*OUTPUT
+1.snacks
+2.meal
+3.beverages
+enter your choice: 3
+1.tea
+2.coffee
+3.cold drink
+cold drink */
