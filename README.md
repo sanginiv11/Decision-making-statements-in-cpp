@@ -1,6 +1,7 @@
 # Decision-making-statements-in-cpp
 Aim: Expt 6	To study and implement C++ decision making statements Loops.
 Algorithm:
+
 (01)
 1. Start the program.
 2. Declare an integer variable.
@@ -83,7 +84,9 @@ Algorithm:
      b. Prompt the user to enter their beverages choice and read the input.
      c. Use a switch-case for beverages choice and print the selected item.
 5. End the program.
+   
 Theory: 
+
 (01)
 - To check whether a number is odd or even.
 - The program checks whether a number is even or odd.
